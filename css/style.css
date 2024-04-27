@@ -1,0 +1,408 @@
+.frame-1 {
+  background: linear-gradient(
+      rgba(52, 52, 52, 1),
+      rgba(52, 52, 52, 1)
+    ),
+    rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  left: -8px;
+  top: -8px;
+}
+.group-75 {
+  background-color: var(--dark-slate-gray-2);
+  margin-bottom: 7.17px;
+  padding: 37px 419px 37px 384px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: center;
+  border-bottom-left-radius: 1000px;
+  border-bottom-right-radius: 1000px;
+
+}
+.krossfors-two {
+  margin-right: 421px;
+  display: flex;
+  align-items: center;
+}
+.group-4 {
+  background-color: yellow;
+  margin-right: 29px;
+  border-radius: 100px;
+  padding: 1px 15px 1px 15px;
+  display: flex;
+  align-items: center;
+}
+.krossfors {
+  font-family: "Inter";
+  font-size: 25px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--dark-slate-gray);
+}
+.group-5 {
+  padding: 24px 0 0 62px;
+  position: relative;
+}
+.magazin {
+  font-family: "Inter";
+  font-size: 25px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.krossovok {
+  font-family: "Inter";
+  font-size: 25px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.group-7 {
+  display: flex;
+  align-items: flex-start;
+}
+.group-1 {
+  margin-right: 50px;
+  display: flex;
+  align-items: center;
+}
+.vector {
+  width: 20.69%;
+  height: 90%;
+  margin-right: 13px;
+}
+.korzina {
+  font-family: "Inter";
+  font-size: 25px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+}
+.vector-two {
+  width: 30.64%;
+  height: 50%;
+  align-self: stretch;
+  margin-right: 13px;
+  object-fit: cover;
+  margin-top: 22px;
+
+}
+.group-74 {
+  margin-bottom: 108px;
+  margin-left: 300.33px;
+  padding: 113.83px 0 0 83.67px;
+  position: relative;
+}
+.rectangle-3 {
+  width: 1152px;
+  height: 469px;
+  position: relative;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+
+}
+.novinki-two {
+  padding: 0 17.89px 50.46px 0;
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: rotate(-15deg); /* Equal to rotateZ(45deg) */
+}
+.ellipse-1 {
+  width: 354.6px;
+  height: 148px;
+  border-radius: 50%;
+  position: relative;
+}
+.rectangle-4 {
+  width: 262px;
+  height: 100px;
+  background-color: #A52A2A;
+  border-radius: 34px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  position: absolute;
+  left: 50.67px;
+  top: 34.83px;
+}
+.novinki {
+  font-family: "Inter";
+  font-size: 50px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  left: 76.1px;
+  top: 5.54px;
+}
+.group-76 {
+  margin-bottom: 383px;
+  margin-left: 386px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.group-21 {
+  display: flex;
+  align-items: flex-start;
+}
+.group-21:not(:last-of-type) {
+  margin-bottom: 29px;
+}
+.group-18 {
+  margin-right: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.group-24 {
+  background-color: whitesmoke;
+  margin-bottom: -15px;
+  border-radius: 14px;
+  padding: 45px 11px 46px 10px;
+  position: relative;
+}
+.ellipse-2 {
+  width: 277px;
+  height: 37px;
+  border-radius: 50%;
+  position: absolute;
+  right: 11px;
+  bottom: 72px;
+}
+.num-1 {
+  width: 279px;
+  height: 209px;
+  position: relative;
+}
+.group-17 {
+  margin-left: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.num-12-999 {
+  font-family: "Inter";
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: -5px;
+}
+.nike-air-force-1 {
+  max-width: 103px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+}
+.group-19 {
+  margin-right: 120px;
+  position: relative;
+}
+.group-17-two {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.rectangle-10 {
+  width: 300px;
+  height: 300px;
+  background-color: whitesmoke;
+  margin-bottom: -15px;
+  border-radius: 14px;
+}
+.num-9-999 {
+  font-family: "Inter";
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: -5px;
+  margin-left: 7px;
+}
+.nike-air-force-1-two {
+  max-width: 103px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 7px;
+}
+.flex-wrapper-one {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/17b38a27-12ce-4b10-8286-506dd22548a4.png");
+  padding: 150px 3px 45px 5px;
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 7px;
+  top: 41px;
+}
+.ellipse-2-two {
+  width: 277px;
+  height: 37px;
+  border-radius: 50%;
+}
+.group-20 {
+  padding: 0 0 0 9px;
+  position: relative;
+}
+.nike-dunk-hight {
+  max-width: 109px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 7px;
+}
+.ellipse-2-three {
+  width: 308px;
+  height: 45px;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+  bottom: 173px;
+}
+.nike-white-dunk-high-shoes-size-9-1 {
+  width: 292px;
+  height: 175px;
+  position: absolute;
+  left: 16px;
+  top: 69px;
+}
+.nike-sb-dunk-low {
+  max-width: 128px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 7px;
+}
+.ellipse-2-four {
+  width: 277px;
+  height: 37px;
+  border-radius: 50%;
+  position: absolute;
+  right: 11px;
+  bottom: 181px;
+}
+.num-1-two {
+  width: 256px;
+  height: 192px;
+  position: absolute;
+  right: 21px;
+  top: 36px;
+}
+.group-19-two {
+  margin-right: 118px;
+  padding: 0 2px 0 0;
+  position: relative;
+}
+.adidas-stan-smith {
+  max-width: 107px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 7px;
+}
+.flex-wrapper-two {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/a207d32a-2be9-4b2a-bb02-357d334aa82e.png");
+  padding: 133px 13px 26px 5px;
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 7px;
+  top: 58px;
+}
+.nike-cortez {
+  max-width: 68px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 7px;
+}
+.izobrazhenie-2023-09-17-233536799-1 {
+  width: 263px;
+  height: 173px;
+  position: absolute;
+  left: 30px;
+  top: 74px;
+}
+.group-80 {
+  background-color: var(--dark-slate-gray-2);
+  padding: 25px 793px 25px 386px;
+  box-shadow: 0 -4px 4px 0 rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: center;
+  border-top-left-radius: 1000px;
+  border-top-right-radius: 1000px;
+}
+.group-77 {
+  margin-right: 203px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.pomosch {
+  font-family: "Inter";
+  font-size: 35px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 10px;
+}
+.group-64 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.moi-zakazy {
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 500;
+  line-height: normal;
+  color: gray;
+}
+.moi-zakazy:not(:last-of-type) {
+  margin-bottom: 1px;
+}
+.group-78 {
+  margin-top: 24px;
+  display: flex;
+  align-items: flex-start;
+}
+.num-4e20044f01d921622f82312bc2def531-1 {
+  width: 163px;
+  height: 163px;
+  margin-right: 18px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.skaniruj-qr-kod-i-kachaj-prilozhenie {
+  max-width: 200px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: bold;
+  color: rgba(233, 233, 233, 1);
+  margin-top: 68px;
+}
